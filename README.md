@@ -1,2 +1,2 @@
 # DashboardUsingExcel
-By a skilled data analyst, to optimize operations and guest experiences through insightful data analysis
+This shows the excel sheet and powerpoint presentation slide  for , managed by a skilled data analyst, to optimize operations and guest experiences through insightful data analysis, enhancing the ...
